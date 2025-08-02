@@ -1,0 +1,4 @@
+--gerar documentação e mostrar
+dbt docs generate && dbt docs serve
+--porta especifica
+dbt docs serve --port 8888

@@ -1,0 +1,9 @@
+packages:
+  - package: dbt-labs/dbt_utils
+    version: 1.3.0
+  # - git: https://github.com/dbt-labs/dbt-utils.git
+  #   revision: main
+
+  - package: calogica/dbt_expectations
+    version: [">=0.10.4", "<0.11.0"]
+  # - git https://github.com/calogica/dbt-expectations/tree/0.10.4/#expect_table_columns_to_contain_set
