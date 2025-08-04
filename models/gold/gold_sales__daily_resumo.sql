@@ -2,7 +2,6 @@
 select
    o.order_date,
    p.product_name,
-   p.category,
    p.vendor,
    u.city,
    u.state,
