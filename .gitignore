@@ -169,19 +169,14 @@ poetry.toml
 
 # LSP config files
 pyrightconfig.json
-.profiles.yml
+
 .user.yml
-profiles.yml
-
-
-
+profiles_old.yml
 
 
 target/
 dbt_packages/
 logs/
-.profiles.yml
 .user.yml
-profiles.yml
 tests/
 
